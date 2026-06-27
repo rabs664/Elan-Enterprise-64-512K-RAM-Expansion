@@ -1,6 +1,6 @@
 # Elan-Enterprise-64-512K-RAM-Expansion
 
-<img width="1437" height="2396" alt="512K EP RAM" src="https://github.com/user-attachments/assets/9b9063c3-8377-46d7-bc54-6c07bb1ff5f1" />
+<img width="359" height="599" alt="512K EP RAM" src="https://github.com/user-attachments/assets/9b9063c3-8377-46d7-bc54-6c07bb1ff5f1" />
 
 >[!CAUTION]
 >USE AT YOUR OWN RISK.
