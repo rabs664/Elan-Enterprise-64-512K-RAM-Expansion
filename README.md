@@ -9,7 +9,7 @@
 >I am not an Enterprise Expert and still learning about this machine. What you see here is an intepretation of what I have found on the web, see the acknowledgements.
 
 >[!WARNING]
->There is not a lot of room under the keyboard and the jumper wire connectors are tight fit. There is probably a better solution to this.
+>There is not a lot of room under the keyboard and the jumper wire connectors are a tight fit. There is probably a better solution to this.
 >
 > Also the EXP1 connector does not have standard spacing and you have to use two separate headers.
 >
